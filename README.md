@@ -22,6 +22,7 @@ This tool is intended for educational and ethical use only. Unauthorized use is 
 Dependencies
 pwntools: A CTF framework and exploit development library.
 Contributing
+
 Feel free to contribute by opening issues or creating pull requests. Ensure that your contributions adhere to the project's coding standards.
 
-License
+
