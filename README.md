@@ -6,9 +6,10 @@ This repository contains a simple Python script for automating SHA-256 hash crac
 Usage
 Ensure you have the necessary dependencies installed:
 
-bash
+Using this link https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt
+
 Copy code
-pip install -r requirements.txt
+pip install -r rockyou.txt
 Run the script with the SHA-256 hash as a command-line argument:
 
 bash
